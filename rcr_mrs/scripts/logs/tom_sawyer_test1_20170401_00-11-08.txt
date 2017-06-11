@@ -1,0 +1,7 @@
+---------- START OF LOG ----------
+Datetime: 2017-04-01 00:11:08.772854
+
+[00:11:08.773154][INFO] Initializing vehicle...
+[00:11:09.876051][DATA] Home: lat 38.287540, lon -85.558169, alt 202.569000
+[00:11:09.876213][INFO] Initializing setpoints...
+[00:11:09.889301][INFO] Taking off!

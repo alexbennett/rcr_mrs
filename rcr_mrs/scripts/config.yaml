@@ -1,0 +1,11 @@
+target_gps:
+  lat: 34.894263
+  lon: -86.615512
+  alt: 160
+landing_gps:
+  lat: 34.894606
+  lon: -86.615853
+  alt: 160
+ground_speed_multiplier: 5
+tds_loiter_time: 30
+landing_loiter_time: 60

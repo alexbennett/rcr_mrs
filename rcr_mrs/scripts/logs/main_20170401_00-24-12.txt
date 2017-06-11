@@ -1,0 +1,9 @@
+---------- START OF LOG ----------
+Datetime: 2017-04-01 00:24:12.696329
+
+[00:24:12.696616][INFO] Loading configuration...
+[00:24:12.710527][WARNING] Target location: lat 37.897002, lon -86.581023, alt 160.000000
+[00:24:12.710769][WARNING] Landing location: lat 37.896323, lon -86.581003, alt 160.000000
+[00:24:12.710978][WARNING] Ground speed multiplier: 5.000000
+[00:24:12.711112][WARNING] TDS loiter time: 60
+[00:24:12.711261][WARNING] Landing loiter time: 60
